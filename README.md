@@ -1,4 +1,4 @@
-# WhiteBoard - csc322 (Software Engineering) Final Project 
+# WhiteBoard - Software Engineering Final Project 
 
 Contributors: Linda Li, Masuda Farehia, Yifeng Jin <GROUP J>
 
@@ -110,6 +110,4 @@ In doing so, any changes you make will be reflected upon refreshing the browser,
  * Debug mode: on
  * Restarting with stat
  * Debugger is active!
- * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
-# Click http://127.0.0.1:5000/ or copy it to your browser 
-# teaming-app
+
